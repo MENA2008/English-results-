@@ -10,7 +10,7 @@
   body { font-family: Arial, sans-serif; font-size: 13px; color: #1a1a1a; background: #fff; }
 
   /* Cover */
-  .cover { background: #1a3a5c; color: #fff; padding: 60px 50px; min-height: 260px; display: flex; flex-direction: column; justify-content: center; }
+  .cover { background: #1a3a5c; color: #fff; padding: 60px 50px; min-height: 260px; display: flex; flex-direction: column;  justify-content: center; }
   .cover h1 { font-size: 28px; font-weight: 700; margin-bottom: 10px; }
   .cover h2 { font-size: 16px; font-weight: 400; opacity: 0.8; margin-bottom: 24px; }
   .cover-meta { display: flex; gap: 40px; font-size: 13px; opacity: 0.75; }
